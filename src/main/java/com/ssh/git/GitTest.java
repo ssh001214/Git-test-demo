@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("merage Master branch");
         System.out.println("Git hot-fetch branch");
         System.out.println("Git qweqweqweeqw");
+        System.out.println("Git test qweqweqweeqw");
     }
 }
